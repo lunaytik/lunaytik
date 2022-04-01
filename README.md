@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lunaytik
-- 👀 I’m interested in Web Dev particullary the front-end, Web Design and interested of the UX/UI design 
-- 🌱 I’m currently learning PHP, Ruby and Löve2D because I love video games.
-- 📫 How to reach me : TWITTER @lunaytik, DISCORD Lunaytik#6324
+- 👋 Moi c'est @lunaytik, Nathan DEUIL
+- 👀 Je suis interéssé dans le développment web particulièrement dans le front-end/back-end
+- 🌱 Je suis actuellement en train d'apprendre : PHP/MySQL, Ruby et Löve2D car j'adores les jeux vidéo.
+- 📫 Pour en savoir plus sur moi : nathandeuil.fr
 
 <!--- 💞️ I’m looking to collaborate on some projects when I will be able to. --->
 
