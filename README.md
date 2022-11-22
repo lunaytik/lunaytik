@@ -1,7 +1,7 @@
 - 👋 Moi c'est @lunaytik, Nathan DEUIL.
 - 👨‍💻 Je m'interésse beaucoup au développment informatique
 - 👀 Particulièrement le web, avec le back-end.
-- 🌱 Je suis actuellement en train d'apprendre : PHP/MySQL, JS
+- 🌱 Je suis actuellement en train d'apprendre : Symfony
 <!--- 📫 Pour en savoir plus sur moi : --->
 
 <!--- 💞️ I’m looking to collaborate on some projects when I will be able to. --->
