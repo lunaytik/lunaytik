@@ -2,7 +2,7 @@
 - 👨‍💻 Je m'interésse beaucoup au développment informatique
 - 👀 Particulièrement avec le back-end.
 - 🎯 Ce que j'aime le plus avec le dev c'est d'apprendre et de toujours découvrir
-- 🌱 Actuellement j'apprends à utiliser : Ruby On Rails de mon côté et je commences à m'intéressé au Backend Javascript
+- 🌱 Actuellement je commences à apprendre : Node.js (Bientôt un framework JS) et Ruby On Rails de mon côté (pour découvrir)
 <!--- 📫 Pour en savoir plus sur moi : --->
 
 <!--- 💞️ I’m looking to collaborate on some projects when I will be able to. --->
