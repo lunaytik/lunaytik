@@ -1,4 +1,4 @@
-- 👋 Moi c'est @lunaytik, Nathan DEUIL.
+- 👋 Moi c'est @lunaytik
 - 👨‍💻 Je m'interésse beaucoup au développment informatique
 - 👀 Particulièrement avec le back-end.
 - 🎯 Ce que j'aime le plus avec le dev c'est d'apprendre et de toujours découvrir
